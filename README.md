@@ -21,9 +21,9 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Comparative & Competitor Analysis
 - Network Analysis (NetworkX, community detection)
 - Machine Learning (Beginner–Intermediate)
-  Classification models
-  Feature engineering
-  Model evaluation
+  Classification models,
+  Feature engineering,
+  Model evaluation.
 - Data Visualization (Matplotlib, Seaborn, Power BI)
 - Dashboard Development (Power BI)
 - SQL (PostgreSQL)
@@ -42,7 +42,7 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Identified real online communities and outreach opportunities
 - Supported product positioning and growth strategy
 
-🔗 *Link to Project* https://docs.google.com/spreadsheets/d/1_upY43OBvovphzuiEVlf1wL28d7LGoU9btVas1BQNDY/edit?usp=sharing
+🔗 *[Link to Project](https://docs.google.com/spreadsheets/d/1_upY43OBvovphzuiEVlf1wL28d7LGoU9btVas1BQNDY/edit?usp=sharing)*
 
 ---
 
@@ -52,7 +52,7 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Identified high-conversion opportunities for marketing
 - Structured keyword outputs for content and paid ads
 
-🔗 *Link to Project* https://docs.google.com/spreadsheets/d/1UhVTvBN5k-Cp_Xk0XGgvIr3jzkTtNuUG/edit?usp=sharing&ouid=102072219254341313731&rtpof=true&sd=true
+🔗 *[Link to Project](https://docs.google.com/spreadsheets/d/1UhVTvBN5k-Cp_Xk0XGgvIr3jzkTtNuUG/edit?usp=sharing&ouid=102072219254341313731&rtpof=true&sd=true)*
 
 ---
 
@@ -62,7 +62,7 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Identified product gaps, weaknesses, and opportunities
 - Provided strategic recommendations
 
-🔗 *Link to Project* https://docs.google.com/document/d/1oTl1m0cLRccU_6lcSFLxBmByQ0quaDwj/edit?usp=sharing&ouid=102072219254341313731&rtpof=true&sd=true 
+🔗 *[Link to Project](https://docs.google.com/document/d/1oTl1m0cLRccU_6lcSFLxBmByQ0quaDwj/edit?usp=sharing&ouid=102072219254341313731&rtpof=true&sd=true)*
 
 ---
 
@@ -71,7 +71,7 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Studied communities, influencers, bridges, and connectivity
 - Used NetworkX, Louvain algorithm, and visualization techniques
 
-🔗 *Link to Project* https://drive.google.com/drive/folders/1DLevnLfHrmHtq0NEJ1lAryTgxHvrXZpo?usp=drive_link
+🔗 *[Link to Project](https://drive.google.com/drive/folders/1DLevnLfHrmHtq0NEJ1lAryTgxHvrXZpo?usp=drive_link)*
 
 ---
 
@@ -81,7 +81,7 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Explained results using feature importance
 - Designed outputs for dashboard integration
 
-🔗 *Link to Project* https://drive.google.com/drive/folders/16eDro0YDQR99Ujfap9j0MRFvHplRrN3L?usp=drive_link
+🔗 *[Link to Project](https://drive.google.com/drive/folders/16eDro0YDQR99Ujfap9j0MRFvHplRrN3L?usp=drive_link)*
 
 ---
 
