@@ -36,6 +36,8 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 ## Featured Projects
 
 ### StoryTime4Kids – User Clustering & Market Research
+StoryTime4Kids is a children-focused educational app, an AI-powered interactive storytelling app that turns passive screen time into active, intelligent play for children aged 1–12. This platform enables children to make choices that shape each story, thereby developing their creativity, confidence, curiosity, and problem-solving skills. The app serves as an early cognitive support tool, encouraging independent thinking and safe exploration, while replacing mindless entertainment with engaging learning experiences. 
+I worked as part of the core analytics team, where I co-led the data analysis effort and owned several critical analytical components.
 **Role:** Data Analytics Team Lead  
 - Built detailed user clusters (Homeschooling Parents, Educators, Caregivers)
 - Analyzed user behavior, motivations, pain points, and spending habits
