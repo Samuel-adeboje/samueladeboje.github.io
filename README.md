@@ -5,22 +5,23 @@ Welcome to my data analytics portfolio
 ---
 
 ## About Me
-I am a Data Analyst with hands-on experience working on real-world data projects across user research, clustering analysis, keyword analysis, comparative analysis, network analysis, and machine learning.
-
-I have worked across data analysis, user clustering, keyword research, comparative analysis, network analysis, machine learning, and dashboarding, both independently and as a team lead.
-
+I am a Data Analyst with hands-on experience delivering end-to-end data projects across user research, clustering and segmentation analysis, keyword and competitive analysis, network analysis, machine learning, and business intelligence reporting.
+I have led and executed projects involving user behavior modeling, revenue analysis, predictive modeling, and dashboard development—transforming complex datasets into clear, strategic insights that support decision-making.
+My experience spans independent analytical work and team leadership roles, where I have structured workflows, guided data strategy, and translated technical findings into actionable recommendations for stakeholders.
 I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, where I led data-driven decision-making to understand users, markets, and growth opportunities.
 
 ---
 
 ## Core Skills
 - Data Analysis & Exploration (Python, Pandas, NumPy)
-- Business & Product Analytics
+- Data cleaning and Transformation.
+- Data pipeline and Structuring.
+- Dataset Integration & Validation
 - User Clustering & Segmentation
 - Keyword Research & Search Intent Analysis
 - Comparative & Competitor Analysis
 - Network Analysis (NetworkX, community detection)
-- Machine Learning (Beginner–Intermediate)
+- Machine Learning (Intermediate)
   Classification models,
   Feature engineering,
   Model evaluation.
@@ -28,12 +29,13 @@ I worked as the **Data Analytics Team Lead** on the **StoryTime4Kids** product, 
 - Dashboard Development (Power BI)
 - SQL (PostgreSQL)
 - Storytelling with Data
+- ETL (Extract, Transform and Load)
 - Technical Documentation & Reporting
 - Team Leadership & Collaboration
 
 ---
 
-## Featured Projects
+## Projects
 
 ### StoryTime4Kids – User Clustering & Market Research
 StoryTime4Kids is a children-focused educational app, an AI-powered interactive storytelling app that turns passive screen time into active, intelligent play for children aged 1–12. This platform enables children to make choices that shape each story, thereby developing their creativity, confidence, curiosity, and problem-solving skills. The app serves as an early cognitive support tool, encouraging independent thinking and safe exploration, while replacing mindless entertainment with engaging learning experiences. 
@@ -46,9 +48,7 @@ I worked as part of the core analytics team, where I co-led the data analysis ef
 
 🔗 *[Link to Project](https://docs.google.com/spreadsheets/d/1_upY43OBvovphzuiEVlf1wL28d7LGoU9btVas1BQNDY/edit?usp=sharing)*
 
----
-
-### Keyword Analysis for Educational Apps
+### Keyword Analysis (StoryTime4Kids)
 - Conducted transactional keyword research
 - Grouped keywords by intent and competition
 - Identified high-conversion opportunities for marketing
@@ -56,9 +56,7 @@ I worked as part of the core analytics team, where I co-led the data analysis ef
 
 🔗 *[Link to Project](https://docs.google.com/spreadsheets/d/1UhVTvBN5k-Cp_Xk0XGgvIr3jzkTtNuUG/edit?usp=sharing&ouid=102072219254341313731&rtpof=true&sd=true)*
 
----
-
-### Comparative Product Analysis
+### Comparative Product Analysis (StoryTime4Kids)
 - Analyzed competing platforms (Home Learning, NovelAI)
 - Extracted user reviews and feedback
 - Identified product gaps, weaknesses, and opportunities
@@ -68,16 +66,34 @@ I worked as part of the core analytics team, where I co-led the data analysis ef
 
 ---
 
-### Network Analysis – Large-Scale Social Network
-- Analyzed LiveJournal social network
-- Studied communities, influencers, bridges, and connectivity
-- Used NetworkX, Louvain algorithm, and visualization techniques
+### Revenue & Profitability Analysis – Palm Oil Investment Feasibility
+
+This project evaluates the profitability of large-scale palm oil investment across six Nigerian states using financial modeling and scenario analysis.
+The goal: determine the optimal location and plantation size required to generate ₦1 billion in annual profit.
+
+- Analyzed multi-source agricultural, financial, and climate data across six Nigerian states.
+- Built revenue, cost, and ROI models to evaluate state-level profitability per hectare.
+- Conducted scenario analysis (Conservative, Base, Optimistic) to assess investment risk and return.
+- Modeled break-even land requirements to determine scale needed to generate ₦1 billion annual profit.
+- Developed Power BI dashboards to communicate insights for executive decision-making.
+
+🔗 *[Link to Project](https://drive.google.com/drive/folders/1huaaBxienyM6K7kKiFwabju9Ivg275nk?usp=drive_link)*
+
+---
+
+### Network Analysis – User Behaviour and Engagement on a Social Network
+
+- Analyzed the LiveJournal social network dataset to understand user interaction patterns.
+- Applied community detection (Louvain algorithm) to identify naturally forming user clusters.
+- Identified key influencers, bridge users, and highly connected nodes using centrality metrics.
+- Used NetworkX and network visualization techniques to map connectivity and engagement structures.
+- Translated structural network patterns into insights on information flow and community dynamics.
 
 🔗 *[Link to Project](https://drive.google.com/drive/folders/1DLevnLfHrmHtq0NEJ1lAryTgxHvrXZpo?usp=drive_link)*
 
 ---
 
-### Machine Learning – User Engagement Prediction
+### Machine Learning – User Engagement Prediction Analysis
 - Built a classification model to predict user engagement
 - Performed feature engineering and evaluation
 - Explained results using feature importance
@@ -85,9 +101,7 @@ I worked as part of the core analytics team, where I co-led the data analysis ef
 
 🔗 *[Link to Project](https://drive.google.com/drive/folders/16eDro0YDQR99Ujfap9j0MRFvHplRrN3L?usp=drive_link)*
 
----
-
-## Dashboards
+## Dashboard
 - Power BI dashboards for user engagement and channel activity
 - Interactive visual storytelling for stakeholders
 
