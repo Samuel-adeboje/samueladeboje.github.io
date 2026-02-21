@@ -125,22 +125,26 @@ their revenue.
 
 ---
 
-### Soft Skills  
-• Leadership – guided a team and owned outcomes 
-• Clear communication – explained complex analysis in simple language 
-• Analytical thinking – broke vague problems into structured approaches 
-• Problem-solving – worked through ambiguity and missing context 
-• Collaboration – coordinated multiple contributors effectively 
-• Attention to detail – ensured clean, accurate final outputs 
-• Critical thinking – questioned assumptions and validated insights 
-• Time management – balanced multiple tasks and deadlines 
-• Adaptability – adjusted methods when data or tools changed 
-• Ownership & accountability – took responsibility for final delivery
+### Soft Skills 
+
+- Leadership – guided a team and owned outcomes 
+- Clear communication – explained complex analysis in simple language 
+- Analytical thinking – broke vague problems into structured approaches 
+- Problem-solving – worked through ambiguity and missing context 
+- Collaboration – coordinated multiple contributors effectively 
+- Attention to detail – ensured clean, accurate final outputs 
+- Critical thinking – questioned assumptions and validated insights 
+- Time management – balanced multiple tasks and deadlines 
+- Adaptability – adjusted methods when data or tools changed 
+- Ownership & accountability – took responsibility for final delivery
 
 ---
-EDUCATION
+### EDUCATION
+
 Bachelor of Science in Biochemistry (Second Class Upper)
+
 Federal University of Agriculture, Abeokuta
+
 2019 – 2024
 
 Strong foundation in statistical reasoning, hypothesis testing, structured analysis, and quantitative research methodology.
@@ -150,4 +154,4 @@ Strong foundation in statistical reasoning, hypothesis testing, structured analy
 - LinkedIn: *Samuel Adeboje*
 - Email: *adebojesamuel75@gmail.com*
 
----
+
