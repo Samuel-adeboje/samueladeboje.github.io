@@ -79,6 +79,8 @@ The goal: determine the optimal location and plantation size required to generat
 
 🔗 *[Link to Project](https://drive.google.com/drive/folders/1huaaBxienyM6K7kKiFwabju9Ivg275nk?usp=drive_link)*
 
+🔗 *[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWI3NDFlMzEtYTMyNy00MmJmLTgxZmItZDAyYjIzYzQ2OWRjIiwidCI6ImU4YjY1YmRkLWE3ZGMtNDM5My1hZmNlLTIzYWY4MWY3YTY0NSJ9)*
+
 ---
 
 ### Network Analysis – User Behaviour and Engagement on a Social Network
@@ -107,9 +109,43 @@ The goal: determine the optimal location and plantation size required to generat
 
 🔗 *[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA1MTgzY2QtMGQ3Ni00N2MzLTlkNmMtMmRjNDVjZWVjNzUxIiwidCI6ImU4YjY1YmRkLWE3ZGMtNDM5My1hZmNlLTIzYWY4MWY3YTY0NSJ9)*
 
+--- 
+### Nigerian Banks SEO Analysis 
+- Conducted a digital competitive analysis of top Nigerian banks by measuring 
+search engine visibility across 60 consumer banking keywords 
+- Engineered a unified dataset by merging Ubersuggest SEO metrics (Search 
+Volume, CPC) with publicly available 2024 bank revenue data 
+- Identified which bank has the highest SEO visibility, and if it correlates with 
+their revenue.
+- Developed Power BI dashboards to communicate insights.
+
+🔗 *[Link to Project](https://drive.google.com/drive/folders/1MRWZNQVJUHpHclFC0tryaidGFfmKZOgZ?usp=drive_link)*
+
+🔗 *[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTA2NTlhZWEtMzc2Ni00N2VhLWFjNWMtN2E4OTg4ZTgzMjFiIiwidCI6ImU4YjY1YmRkLWE3ZGMtNDM5My1hZmNlLTIzYWY4MWY3YTY0NSJ9)*
 
 ---
 
+### Soft Skills  
+• Leadership – guided a team and owned outcomes 
+• Clear communication – explained complex analysis in simple language 
+• Analytical thinking – broke vague problems into structured approaches 
+• Problem-solving – worked through ambiguity and missing context 
+• Collaboration – coordinated multiple contributors effectively 
+• Attention to detail – ensured clean, accurate final outputs 
+• Critical thinking – questioned assumptions and validated insights 
+• Time management – balanced multiple tasks and deadlines 
+• Adaptability – adjusted methods when data or tools changed 
+• Ownership & accountability – took responsibility for final delivery
+
+---
+EDUCATION
+Bachelor of Science in Biochemistry (Second Class Upper)
+Federal University of Agriculture, Abeokuta
+2019 – 2024
+
+Strong foundation in statistical reasoning, hypothesis testing, structured analysis, and quantitative research methodology.
+
+---
 ## Contact
 - LinkedIn: *Samuel Adeboje*
 - Email: *adebojesamuel75@gmail.com*
